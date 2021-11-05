@@ -290,6 +290,15 @@
     "telegram": "https://t.me/emontoken"
   }
 },
+  {
+    "chainId": 101,
+    "address": "9jqojXc4oppbAcEFi5c4z4xM4CrxX322juEidZa38k6P",
+    "symbol": "BLOCK",
+    "name": "Block Asset",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/SolaToken/token-list/main/assets/mainnet/9jqojXc4oppbAcEFi5c4z4xM4CrxX322juEidZa38k6P/logo.png",
+    "tags": ["utility-token"]
+  },
 {
     "chainId": 101,
     "address": "6Km8PRUQxPmNX6EhmAuu3sFEnCP6uT2Yt42zPFR6VNnD",
